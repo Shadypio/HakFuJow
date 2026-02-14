@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="kungfu_academy_app"
+        android:label="HakFuJow"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
