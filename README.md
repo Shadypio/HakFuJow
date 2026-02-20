@@ -4,6 +4,14 @@ A mobile app for the **HakFuJow Kung Fu Academy**, built with Flutter for Androi
 
 Browse official academy documents — training guides, rules, and philosophy — directly from your phone. An integrated AI chatbot lets you ask questions about the content of the documents and get instant answers.
 
+## Screenshot
+<img width="576" height="1150" alt="image" src="https://github.com/user-attachments/assets/8765fe78-c273-493d-b8c3-605390b7d417" />
+<img width="576" height="1198" alt="image" src="https://github.com/user-attachments/assets/23f4d8b4-0dfc-42f2-ab49-1dc469d6aafe" />
+<img width="576" height="1191" alt="image" src="https://github.com/user-attachments/assets/6edee89d-4f4f-45ab-a005-52a957053215" />
+
+
+
+
 ## Features
 
 - **PDF Reader** — View kung fu academy documents with full-screen reading, page navigation, and in-document text search.
